@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Bonetrousle 1": "github:drakonhearted/bonetrousle-1#c0bba662c4dfbf6520ba94c299364e2f48965123"
     },
     "files": [
         "main.blocks",
