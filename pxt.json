@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Bonetrousle 1": "github:drakonhearted/bonetrousle-1#c0bba662c4dfbf6520ba94c299364e2f48965123"
+        "Bonetrousle 1": "github:drakonhearted/bonetrousle-1#ef4e9a3d17365a453c89514ab94598c79f552269"
     },
     "files": [
         "main.blocks",
@@ -22,5 +22,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
