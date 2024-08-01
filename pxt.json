@@ -5,12 +5,16 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Bonetrousle 1": "github:drakonhearted/bonetrousle-1#ef4e9a3d17365a453c89514ab94598c79f552269"
+        "Bonetrousle 1": "github:drakonhearted/bonetrousle-1#ef4e9a3d17365a453c89514ab94598c79f552269",
+        "Spiderdance 1": "pkg:Spiderdance 1.json",
+        "\"...con lentitude poderosa\"": "pkg:\"...con lentitude poderosa\".json"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "Spiderdance 1.json",
+        "\"...con lentitude poderosa\".json"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +26,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
